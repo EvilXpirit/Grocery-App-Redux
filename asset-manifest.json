@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Grocery-App-Redux/static/css/main.03c8be90.css",
+    "main.js": "/Grocery-App-Redux/static/js/main.533b1a8c.js",
+    "static/js/453.5ec07d44.chunk.js": "/Grocery-App-Redux/static/js/453.5ec07d44.chunk.js",
+    "static/media/apple.jpg": "/Grocery-App-Redux/static/media/apple.e2f1ddc8c6516d67a3e2.jpg",
+    "static/media/orange.jpg": "/Grocery-App-Redux/static/media/orange.e16063bee2f7ea4f67c5.jpg",
+    "static/media/milk.jpg": "/Grocery-App-Redux/static/media/milk.4b4ef15db7c283722fcd.jpg",
+    "static/media/rice.jpg": "/Grocery-App-Redux/static/media/rice.8b651010adb18d6ad80c.jpg",
+    "static/media/oil.jpg": "/Grocery-App-Redux/static/media/oil.96e75420d40a22f59c0f.jpg",
+    "static/media/banana.jpg": "/Grocery-App-Redux/static/media/banana.c2f4f46264d88c1910e9.jpg",
+    "index.html": "/Grocery-App-Redux/index.html",
+    "main.03c8be90.css.map": "/Grocery-App-Redux/static/css/main.03c8be90.css.map",
+    "main.533b1a8c.js.map": "/Grocery-App-Redux/static/js/main.533b1a8c.js.map",
+    "453.5ec07d44.chunk.js.map": "/Grocery-App-Redux/static/js/453.5ec07d44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c8be90.css",
+    "static/js/main.533b1a8c.js"
+  ]
+}
